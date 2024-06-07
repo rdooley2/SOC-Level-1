@@ -2,6 +2,12 @@
 
 <h2>https://tryhackme.com/path/outline/soclevel1</h2>
 
+
+<h2>Prerequisites:</h2>
+
+- <b>[TryHackMe - Pre Security](https://github.com/rdooley2/PS-and-ITC/blob/main/README.md)</b>
+- <b>[TryHackMe - Intro to Cyber Security](https://github.com/rdooley2/PS-and-ITC/blob/main/README.md)</b>
+
 <h2>Points of Interest:</h2>
 
 - <b>Cyber Defense Frameworks</b>
